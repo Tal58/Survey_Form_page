@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-image: url("background_image.jpg");
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+    margin-top: 3%;
+    margin-bottom: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgba(0, 0, 0, 0.3);
+
+}
+
+#title {
+    text-align: center;
+    font-family: 'Titan One', cursive;
+    font-size: 3rem;
+}
+
+#description {
+    text-align: center;
+    color: white;
+    /* font-family: 'Kanit', sans-serif; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-top: 0;
+    margin-left: 31%;
+    margin-right: 31%;
+    padding-left: 3%;
+    padding-right: 3%;
+    width: 30%;
+    height: 100%;
+    
+}
+
+#survey-form {
+    display: inline-block;  
+    width: 100%;
+    height: 100%;
+    margin-top: 1%;
+    margin-left: 4%;
+
+}
+.input1 {
+    width: 100%;
+    height: 40px;
+}
+.input2 {
+    width: 95%;
+    height: 29px;
+}
+.input3 {
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    height: 40px;
+    text-align: center;
+    margin-left: 37%;
+    margin-right: 37%;
+    padding-left: 13%;
+    padding-right: 13%;   
+}
+.feedback {
+    width: 90%;
+    height: 75px;
+}
+.feedback::placeholder {
+    padding-top: 10px;
+    padding-left: 10px;
+}
