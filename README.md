@@ -41,9 +41,6 @@ Functionally create a Survey Form as in the image above
 
 - CSS Properties for Texts-Font Families-Links
 
-## Resources
-
--  [Background Image Url](./background_image.jpg)
 
 
 <center> &#8987; Happy Coding  &#9997; </center>
